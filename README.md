@@ -51,8 +51,8 @@ If you find a new paper, video, or datasheet that is useful for the team:
 
 ### 🔗 Community Resources (Added by Team)
 *Add new links here in the format: `[Title](Link) - Description - @YourName`*
-[Motor Control from Scratch](https://youtube.com/playlist?list=PLl6mqZGq1o09k59iLGNs7AdLuJi9FoVcV&si=sy7RJGzMGQK_Qd8W) - PMSM motors, FOC, SVM - @Akshat Panda
-[SENSORLESS FIELD ORIENTED CONTROL OF BRUSHLESS PERMANENT MAGNET SYNCHRONOUS MOTORS](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content) - Chapter 2,3,4, Appendix - @Akshat Panda
-[Dynamic Model of PMSM motor and Torque](https://drive.google.com/file/d/1z1_R_sGhaGcJp3G0s5dLazDMSRDTJv_1/view?usp=sharing) - Rotating magnetic field, dq model of motor, Torque - @Akshat Panda
+`[Motor Control from Scratch](https://youtube.com/playlist?list=PLl6mqZGq1o09k59iLGNs7AdLuJi9FoVcV&si=sy7RJGzMGQK_Qd8W) - PMSM motors, FOC, SVM - @Akshat Panda`
+`[SENSORLESS FIELD ORIENTED CONTROL OF BRUSHLESS PERMANENT MAGNET SYNCHRONOUS MOTORS](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content) - Chapter 2,3,4, Appendix - @Akshat Panda`
+`[Dynamic Model of PMSM motor and Torque](https://drive.google.com/file/d/1z1_R_sGhaGcJp3G0s5dLazDMSRDTJv_1/view?usp=sharing) - Rotating magnetic field, dq model of motor, Torque - @Akshat Panda`
 
 * *Example: [Comparison of Inline vs Low-side Sensing](link) - Good article on why we chose inline - @TeamLead*
