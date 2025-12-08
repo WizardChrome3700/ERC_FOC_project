@@ -12,9 +12,7 @@ This repository serves as the central hub for the development of a high-performa
 | Resource | Content |
 | :--- | :--- |
 | [TI Precision Labs - Motor Drivers](https://www.youtube.com/playlist?list=PLISmVLHAZbTQW1gK5ql0gq3HbwxF6BMjR) | BLDC Motor Physics & FOC Mathematics |
-| [Motor Control from Scratch](https://youtube.com/playlist?list=PLl6mqZGq1o09k59iLGNs7AdLuJi9FoVcV&si=sy7RJGzMGQK_Qd8W) | PMSM motors, FOC, SVM |
-| [SENSORLESS FIELD ORIENTED CONTROL OF BRUSHLESS PERMANENT MAGNET SYNCHRONOUS MOTORS](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content) | Chapter 2,3,4, Appendix |
-| [Dynamic Model of PMSM motor and Torque](https://drive.google.com/file/d/1z1_R_sGhaGcJp3G0s5dLazDMSRDTJv_1/view?usp=sharing) | Rotating magnetic field, dq model of motor, Torque |
+
 
 ### Phase 2: Firmware Architecture & MCU Selection
 *The system requires a microcontroller capable of high-frequency ADC sampling and real-time trigonometric calculations.*
@@ -53,5 +51,8 @@ If you find a new paper, video, or datasheet that is useful for the team:
 
 ### 🔗 Community Resources (Added by Team)
 *Add new links here in the format: `[Title](Link) - Description - @YourName`*
+| [Motor Control from Scratch](https://youtube.com/playlist?list=PLl6mqZGq1o09k59iLGNs7AdLuJi9FoVcV&si=sy7RJGzMGQK_Qd8W) | PMSM motors, FOC, SVM |
+| [SENSORLESS FIELD ORIENTED CONTROL OF BRUSHLESS PERMANENT MAGNET SYNCHRONOUS MOTORS](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content) | Chapter 2,3,4, Appendix |
+| [Dynamic Model of PMSM motor and Torque](https://drive.google.com/file/d/1z1_R_sGhaGcJp3G0s5dLazDMSRDTJv_1/view?usp=sharing) | Rotating magnetic field, dq model of motor, Torque |
 
 * *Example: [Comparison of Inline vs Low-side Sensing](link) - Good article on why we chose inline - @TeamLead*
