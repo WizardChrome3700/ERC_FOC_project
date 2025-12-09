@@ -57,3 +57,4 @@ If you find a new paper, video, or datasheet that is useful for the team:
 * [Motor Control from Scratch](https://youtube.com/playlist?list=PLl6mqZGq1o09k59iLGNs7AdLuJi9FoVcV&si=sy7RJGzMGQK_Qd8W) - PMSM motors, FOC, SVM - @Akshat Panda
 * [SENSORLESS FIELD ORIENTED CONTROL OF BRUSHLESS PERMANENT MAGNET SYNCHRONOUS MOTORS](https://krex.k-state.edu/server/api/core/bitstreams/e3f7aa0b-4833-44e4-9ef0-af09f411baa1/content) - Chapter 2,3,4, Appendix - @Akshat Panda
 * [Dynamic Model of PMSM motor and Torque](https://drive.google.com/file/d/1z1_R_sGhaGcJp3G0s5dLazDMSRDTJv_1/view?usp=sharing) - Rotating magnetic field, dq model of motor, Torque - @Akshat Panda
+* [FOC Simulator MATLAB 2022a Simulink](https://drive.google.com/file/d/1QYl4AjtamdYXiM77_9oIWxio2uW50b8B/view?usp=sharing) - Simulink simulator of PI controller for Id and Iq control of PMSM motor - @Akshat Panda
